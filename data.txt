@@ -4,3 +4,4 @@ Favorite Color: Red
 Eye colors: Pink
 Beard: Yes
 Hair: No
+Glasses: No
